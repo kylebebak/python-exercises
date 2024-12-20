@@ -1,0 +1,9 @@
+# ignore files without an extension
+*
+!*/
+!*.*
+
+*.txt
+*.pyc
+.DS_Store
+*.encoding
